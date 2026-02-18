@@ -36,6 +36,8 @@ me = Kanhiya()
 me.say_hi()
 ```
 
+> ⚡ *Analyzing source code... 100% Loaded. Welcome to my digital space!* �
+
 ---
 
 ## 🛠️ Tech Stack
@@ -151,3 +153,4 @@ me.say_hi()
 *Thanks for stopping by! Drop a ⭐ if you like my work!*
 
 </div>
+
